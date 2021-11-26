@@ -1,0 +1,1 @@
+console.log('Initial code: fileS1.js')
